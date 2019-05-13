@@ -1,0 +1,2871 @@
+﻿1
+00:00:21,840 --> 00:00:23,660
+1944年中期 
+By the middle of 1944
+
+2
+00:00:24,060 --> 00:00:28,800
+盟军投入1000架轰炸机
+Allied forces were regularly flying raids of 1,000 bombers over Nazi Germany,
+
+3
+00:00:29,970 --> 00:00:34,410
+在P51野马等远航程战斗机护航下对纳粹德国定期轰炸
+Escorted by powerful, long range sightings like the P51 Mustang
+
+4
+00:00:34,411 --> 00:00:38,850
+德国空军无力抵抗这庞大的空中舰队
+the German Luftwaffe could put up little resistance to these vast air armadas 
+
+5
+00:00:40,590 --> 00:00:41,820
+但是在1944年7月
+But in July 1944
+
+6
+00:00:42,991 --> 00:00:46,170
+一种新式德国战斗机出现在天空中
+a new German fighter appeared in the skies,
+
+7
+00:00:46,171 --> 00:00:50,250
+其飞行时速比野马高出100多英里
+capable of flying over one hundred miles per hour faster than the Mustang,
+
+8
+00:00:50,251 --> 00:00:52,980
+并且装备了4门30mm口径的机炮
+and armed with four thirty millimeter cannons.
+
+9
+00:00:52,981 --> 00:00:57,000
+可以摆脱护航战斗机并一次性将轰炸机全部摧毁
+It could outmaneuver the escorts and destroy a bomber in a single pass. 
+
+10
+00:00:58,650 --> 00:01:00,180
+德军的新战机
+The new German fighter,
+
+11
+00:01:00,181 --> 00:01:05,400
+这种让盟军飞行员恐惧，并且让德国空军认为自己不可战胜的
+which put fear into the allied pilots and made the German Luftwaffe feeling invincible.
+
+12
+00:01:05,400 --> 00:01:08,540
+正是喷气式的梅塞施密特262
+Was the jet propelled Messerschmitt 262
+
+13
+00:01:09,380 --> 00:01:13,380
+我第一次看见德国的喷气机Me262时，
+The first time I saw a German jet, the Me262
+
+14
+00:01:13,381 --> 00:01:17,370
+我简直不敢相信它跑得这么快
+I could hardly believe it how fast it was.
+
+15
+00:01:18,750 --> 00:01:18,740
+*听不清
+
+
+16
+00:01:21,220 --> 00:01:25,700
+这次我们不再是猎物，而是猎人
+At this time we were again not the hunted,but the hunters.
+
+17
+00:01:25,860 --> 00:01:28,380
+*所以我们现在有信心取胜
+So now we won with a ego.
+
+18
+00:01:29,820 --> 00:01:33,160
+使用出色的影像档案和*色彩再现，
+Using extraordinary archive film and color re-enactments,
+
+19
+00:01:33,480 --> 00:01:39,570
+《Battle Stations》节目将会深入速度之争，探索航空史上第一种投入实战的喷气战斗机
+Battle stations dives into the high speed world of the race to get the first jet fighter ever to fly in combat.
+
+20
+00:01:39,570 --> 00:01:45,240
+梅塞施密特262 : 喷气竞赛
+Messerschmitt 262：RACE FOR THE JET
+
+21
+00:01:46,620 --> 00:01:52,380
+讽刺的是，令盟军恐惧的Me262的起源是一张和平条约
+Ironically, the origins of the fearsome Messerschmitt 262 were born out of a peace treaty.
+
+22
+00:01:52,381 --> 00:01:54,450
+在一战战败后
+Following its defeat in World War One,
+
+23
+00:01:54,450 --> 00:02:01,020
+德国被同盟国强制签署禁止发展常规飞行技术的协定，
+Germany was forced by the allies to sign an agreement which banned them from developing further conventional aircraft technologies,
+
+24
+00:02:01,100 --> 00:02:03,540
+然而其中并未提及火箭和喷气推进技术。
+that rockets and jet propulsion would never mentioned.
+
+25
+00:02:07,140 --> 00:02:08,400
+1930年，
+in the 1930s
+
+26
+00:02:08,401 --> 00:02:12,150
+元首开始描绘纳粹德国的蓝图
+Adolf Hitler began to build his vision for Nazi Germany.
+
+27
+00:02:12,151 --> 00:02:15,630
+其中包括世界最强的空军
+That vision included the most powerful air force in the world.
+
+28
+00:02:15,631 --> 00:02:18,480
+为达到这一目标，空军必须有高航速
+To achieve this, the airforce must have speed.
+
+29
+00:02:22,530 --> 00:02:23,280
+当时，
+At that time,
+
+30
+00:02:23,281 --> 00:02:26,310
+人们认识到，飞得更快意味着需要飞的更高
+It was realized that to fly faster meant flying higher,
+
+31
+00:02:26,311 --> 00:02:27,900
+因为高处空气更稀薄
+where the air is thinner.
+
+32
+00:02:27,901 --> 00:02:29,730
+但当飞行高度增加，
+but the higher a plane flies,
+
+33
+00:02:29,731 --> 00:02:32,490
+螺旋桨就更难牵引飞机前进
+the harder it is for a propeller to draw it through the air.
+
+34
+00:02:37,770 --> 00:02:44,850
+在德国哥廷根大学，一位年轻的工程师 汉斯·冯·奥海恩开始了涡轮喷气引擎的研究
+At the German University of Göttingen a young engineer named Hans von Ohain began development work on a turbo jet engine.
+
+35
+00:02:47,190 --> 00:02:53,460
+汉斯·冯·奥海恩是个十分优秀的学生，
+他第一次完成喷气引擎的构想时仅有21岁
+A brilliant student Hans von Ohain was only twenty one years old when he first conceived the idea of a jet engine.
+
+36
+00:02:54,960 --> 00:02:55,590
+There's one.
+
+37
+00:02:57,480 --> 00:03:00,570
+他是个好学的技术人员
+He was a technician with an inquisitive mind.
+
+38
+00:03:00,571 --> 00:03:03,180
+他非常擅长解决理论问题
+He was very good at theoretical problems,
+
+39
+00:03:03,181 --> 00:03:04,560
+而且他也在学习物理
+and he studied physics as well.
+
+40
+00:03:04,561 --> 00:03:05,370
+If you tried it.
+
+41
+00:03:07,380 --> 00:03:09,210
+受到他教授的鼓舞，
+Encouraged by his professor,
+
+42
+00:03:09,211 --> 00:03:11,880
+这位年轻工程师开始着手制造原型
+the young engineer began to build a working prototype.
+
+43
+00:03:13,800 --> 00:03:15,270
+此时的英国，
+Meanwhile, in Britain,
+
+44
+00:03:15,271 --> 00:03:21,300
+全然不知德国发生的事，26岁的皇家空军飞行员弗兰克·惠特尔
+totally unaware of what was happening in Germany,a 26 year old Royal Air Force pilots named Frank Whittle,
+
+45
+00:03:21,301 --> 00:03:24,030
+正在研发一种燃气涡轮引擎
+was developing a gas turbine engine.
+
+46
+00:03:24,031 --> 00:03:25,050
+1932年
+in 1932
+
+47
+00:03:25,051 --> 00:03:27,660
+他提交了世界上第一份喷气引擎的专利
+He filed a patent on the world's first jet engine.
+
+48
+00:03:29,670 --> 00:03:30,960
+在这个早期片段中
+In this early film,
+
+49
+00:03:30,961 --> 00:03:34,440
+弗兰克·惠特尔亲自解释了引擎的原理
+Frank Whittle himself explains the principles of his engine.
+
+50
+00:03:36,270 --> 00:03:39,420
+这代表一个离心压缩机
+This represents a centrifugal type compressor.
+
+51
+00:03:39,421 --> 00:03:45,210
+用这个在前端吸入空气，像这样压缩进入燃烧室
+I use this to pull in air at the front and to compress it into combustion chambers like this,
+
+52
+00:03:45,210 --> 00:03:53,100
+这里会注入燃料并燃烧，使空气膨胀，让它有足够的能量驱动压缩机的涡轮
+where the injection of burning the fuel ** and expand the air and gives it enough energy to drive a turbine which drives the compressor.
+
+53
+00:03:53,120 --> 00:03:57,840
+这个设计将会成为世界上第一个完全可行的喷气引擎
+This design was to become the world's first fully working jet engine.
+
+54
+00:04:00,270 --> 00:04:05,280
+但惠特尔发现很难让英国军方重视他的设计
+But Whittle found it difficult to get his design taken seriously by the British military establishment.
+
+55
+00:04:06,210 --> 00:04:11,400
+当时科学家，即当权者的建议是这个设计不可行
+The scientific advice at that time and i.e by the people in power was it couldn't work.
+
+56
+00:04:11,401 --> 00:04:13,860
+让它正常工作需要过多的能量
+It required just too much power to make it work.
+
+57
+00:04:13,861 --> 00:04:17,010
+军方人员听取了这个建议
+And the officials at the ministry listened to that advice,
+
+58
+00:04:17,011 --> 00:04:27,210
+*惠特尔被视作妄想用当时无法实现的想法一举成名的人
+and Whittle was very much seen as a bit of an upstart that was trying to sort of make his name and push forward an idea that was not really achievable at that time. 
+
+59
+00:04:27,211 --> 00:04:32,910
+对惠特尔的阻碍导致的延期，之后将成为德国喷气引擎研究的显著优势
+The delays, which were to hamper Whittle were to prove a distinct advantage for German jet engine development.
+
+60
+00:04:34,590 --> 00:04:36,540
+1935年
+By 1935
+
+61
+00:04:36,541 --> 00:04:45,330
+汉斯在导师建议下，通过飞机制造商亨克尔的经济支持完成了测试引擎
+Hans von Ohain had developed a test engine on the advice of his professor approach the aircraft manufacturer Ernst Hanckel for financial support.
+
+62
+00:04:46,290 --> 00:04:49,200
+亨克尔作为激进理念的赞助者而出名
+Hanckel was known as a patron of radical concepts,
+
+63
+00:04:49,201 --> 00:04:54,840
+他特别看重那些能提高速度，让他能建造世界最快飞机的技术
+especially those which would lead to higher speeds and enable him to build the fastest airplane in the world.
+
+64
+00:04:56,550 --> 00:05:03,540
+亨克尔对此印象深刻
+他意识到这种引擎的巨大潜力，要求制造全尺寸型号
+ Impressed, Heinkel recognize the enormous potential of such an engine and ordered the construction of a fullscale *power plant.
+
+65
+00:05:06,570 --> 00:05:12,990
+汉斯和他的工程师团队接受了任务，
+开始研发亨克尔HeS 3引擎
+Ohain and his team of engineers accepted the task and set to work on what would become the HES 3 jet engine.
+
+66
+00:05:17,160 --> 00:05:18,240
+回到英国，
+Back in Britain,
+
+67
+00:05:18,241 --> 00:05:21,900
+惠特尔终于筹到了开一间小公司的钱
+Whittle had finally managed to raise enough funds to establish a small company.
+
+68
+00:05:24,420 --> 00:05:27,270
+公司建立在莱斯特郡的拉特沃思小镇
+Located in the little Leicestershire town of Lutterworth,
+
+69
+00:05:27,271 --> 00:05:29,100
+他将其命名为Power Jets
+he called it powered jets.
+
+70
+00:05:30,840 --> 00:05:31,950
+1937年
+In 1937,
+
+71
+00:05:31,951 --> 00:05:33,750
+他第一次测试引擎
+he tested his engine for the first time.
+
+72
+00:05:37,140 --> 00:05:44,430
+惠特尔遇到了各种问题*
+Whittle had all sorts of problems when the engine on pairing up ran away with itself and just kept going and going the thrust built up,
+
+73
+00:05:44,431 --> 00:05:49,020
+惠特尔就站在那看着机器爆炸，因为他已经被吓坏了
+and Whittle just stood there and waited for it to go bang because he was just transfixed by it.
+
+74
+00:05:49,021 --> 00:05:51,300
+但同时他也被这个情景所吸引
+He also was enthralled by what was happening.
+
+75
+00:05:51,301 --> 00:05:52,710
+这台机器是他的孩子
+This was his baby,
+
+76
+00:05:52,711 --> 00:05:54,750
+惠特尔不想让它破裂
+and he didn't want it to break fall apart.
+
+77
+00:05:54,751 --> 00:05:55,830
+他正在悉心照顾这台机器
+He was looking after it.
+
+78
+00:05:55,831 --> 00:05:58,710
+即便其他所有人都明智地立马跑路了
+Although everyone else sensibly left the area very quickly.
+
+79
+00:06:07,590 --> 00:06:09,990
+尽管有许多挫折与失败
+Despite many setbacks and failures,
+
+80
+00:06:09,991 --> 00:06:13,470
+惠特尼最终掌控了他的引擎
+which will finally succeeded in controlling his engine.
+
+81
+00:06:13,471 --> 00:06:15,900
+但是英国政府仍未被说服
+but the British government was still not convinced,
+
+82
+00:06:15,901 --> 00:06:19,200
+政府更倾向传统的飞机和引擎设计
+preferring instead conventional designs for aircraft and engines.
+
+83
+00:06:21,570 --> 00:06:25,440
+惠特尔的发明在整个30年代面临重重阻力
+Whittle face resistance to his invention throughout the 1930s.
+
+84
+00:06:25,441 --> 00:06:30,540
+先前的喷气推进测试表明涡桨飞机将会很重，
+Previous experiments with jet propulsion indicated that turboprops will be heavy,
+
+85
+00:06:30,541 --> 00:06:33,690
+昂贵且不可靠
+expensive and very unreliable.
+
+86
+00:06:33,691 --> 00:06:37,380
+英国航空部和皇家空军认为
+The British Air Ministry and the Royal aircraft establishment saw,
+
+87
+00:06:37,381 --> 00:06:44,550
+喷气推进要想成为飞机动力的可行替代方案，至少还有10至15年的路要走
+that turbo jets were not going to be a viable alternative for Aero propulsion until ten or fifteen years down the road.
+
+88
+00:06:45,990 --> 00:06:47,220
+与此同时
+Throughout this time,
+
+89
+00:06:47,221 --> 00:06:51,090
+惠特尔并不知道德国人也在研发喷气引擎
+Frank Whittle did not know that the Germans were developing a jet engine.
+
+90
+00:06:51,091 --> 00:06:53,970
+项目的保密非常完善
+So good was the secrecy surrounding the project.
+
+91
+00:06:53,971 --> 00:06:58,230
+研发内容从不为人所知
+Little was known about what was being developed at all 
+
+92
+00:06:58,231 --> 00:07:05,250
+当时，惠特尔35年的专利被发布在德国的技术杂志上
+Whittle's patents, which were released in 35 and were published in Germany in German in the technical magazines at that time,
+
+93
+00:07:05,251 --> 00:07:07,830
+汉斯得知了这一切
+made available to * von Ohain,
+
+94
+00:07:07,831 --> 00:07:12,120
+惠特尔已经注册了很多专利
+a lot of material Whittle it previously had as a patent,
+
+95
+00:07:12,121 --> 00:07:16,860
+可以这么说，汉斯已经在阅读这些内容
+and now I think it would be fair to say at that time that von Ohain would have gone down the road of reading these,
+
+96
+00:07:16,861 --> 00:07:17,940
+他不会抄袭
+he wouldn't have copied it,
+
+97
+00:07:17,941 --> 00:07:21,390
+但他一定会阅读并且运用到他自己的领域中
+but he would certainly have read it and interpreted it into the zones he was involved in.
+
+98
+00:07:23,610 --> 00:07:26,490
+当战争阴云开始笼罩
+As the clouds of war gathered on the horizon,
+
+99
+00:07:26,490 --> 00:07:32,120
+纳粹政权对开发高速的推进技术更为执着
+the Nazi regime had become more determined than ever to develop faster forms of propulsion for its *lift off.
+
+100
+00:07:37,170 --> 00:07:38,610
+1938年
+in 1938,
+
+101
+00:07:38,611 --> 00:07:42,960
+帝国航空部签发了德国航空工业规范
+the Reich Air Ministry issued a specification to the German aviation industry.
+
+102
+00:07:44,160 --> 00:07:46,230
+一种单座喷气战斗机
+A single seat turbo jet fighter.
+
+103
+00:07:48,390 --> 00:07:50,250
+被这道命令所推动
+Spurred on by this directive,
+
+104
+00:07:50,251 --> 00:07:52,110
+亨克尔的团队推行这项计划
+Heinkel's team pushed ahead,
+
+105
+00:07:52,111 --> 00:07:55,380
+设计一型装备奥海恩引擎的战机
+designing an aircraft to be powered by Ohain's jet engines.
+
+106
+00:07:57,060 --> 00:08:00,660
+得益于绘图板上的两兄弟
+From the drawing boards of twin brothers, Siegfried and Walter Gunter,
+
+107
+00:08:00,661 --> 00:08:04,410
+第一款实用型喷气动力飞机即将起飞
+the first practical jet powered aircraft was to take flight.
+
+108
+00:08:04,411 --> 00:08:06,840
+命名为He-178
+It was called the He-178.
+
+109
+00:08:10,290 --> 00:08:13,020
+1939年8月27日
+On August the 27th 1939
+
+110
+00:08:13,021 --> 00:08:15,960
+在二战爆发前一周
+one week before the outbreak of World War II,
+
+111
+00:08:15,961 --> 00:08:18,510
+小巧的He-178升空
+the little Heinkel 178 took to the air.
+
+112
+00:08:19,470 --> 00:08:23,780
+德国人在喷气引擎竞赛中先行一步
+The Germans had succeeded in being first in getting a jet air war.
+
+113
+00:08:24,630 --> 00:08:28,830
+但第一架喷气战斗机的竞赛才刚刚开始
+But the race for the first jet fighter had only just begun.
+
+114
+00:08:37,200 --> 00:08:39,840
+1939年9月3日
+On September the 3rd 1939,
+
+115
+00:08:39,841 --> 00:08:42,120
+二战开始
+the Second World War began,
+
+116
+00:08:42,121 --> 00:08:43,290
+在接下来的几周时间里
+and over the next few weeks,
+
+117
+00:08:43,290 --> 00:08:45,200
+德国人扫清了他们面前的一切
+Germany swept all before them.
+
+118
+00:08:48,870 --> 00:08:52,980
+亨克尔和汉斯对喷气飞机的世界首飞兴奋不已，
+Flushed with the success of having just flown the world's first jet aircraft,
+
+119
+00:08:52,980 --> 00:08:59,560
+*两个月后，他们可以向纳粹政府展示飞机了
+It was two months before Ernst Heinkel and Hans von Ohain were able to demonstrate their plane to the Nazi government.
+
+120
+00:09:02,400 --> 00:09:08,100
+但随着纳粹军队所向披靡，传统空军主宰天空
+But with its army conquering all and with its conventional airforce becoming masters of the skies,
+
+121
+00:09:08,101 --> 00:09:10,920
+德国人突然对喷气动力失去了兴趣
+the Germans had suddenly lost interest in jet power.
+
+122
+00:09:13,680 --> 00:09:20,850
+He-178短暂而荣耀的一生结束，余生注定在柏林博物馆度过
+The He-178 short but glorious life was over and was destined to spend the rest of his days in a Berlin museum.
+
+123
+00:09:22,740 --> 00:09:31,300
+但有坚定信念的人仍在默默地完善他自己的喷气飞机设计
+But there were others in Germany who did not believe that the race for the first jet fighter was over quietly working on his own jet aircraft design.
+
+124
+00:09:31,360 --> 00:09:33,600
+这就是后来的Me-262
+that would become the Me-262
+
+125
+00:09:33,660 --> 00:09:38,300
+设计者是杰出的41岁航空工程师：威利·梅塞施密特
+was a brilliant 41 year old aeronautical engineer called Wilhelm Messerschmitt.
+
+126
+00:09:39,540 --> 00:09:44,970
+整个三十年代，梅塞施密特都是战斗机和轰炸机设计者和制造商
+Throughout the thirties Messerschmitt had been a designer and manufacturer of bombers and fighters,
+
+127
+00:09:44,971 --> 00:09:47,250
+a favorite with the Nazi hierarchy,
+
+128
+00:09:47,251 --> 00:09:55,050
+it was a workaholic and created loyalty from all that knew him ever since he was very artistic at home.
+
+129
+00:09:55,051 --> 00:09:56,820
+Over the course of a weekend,
+
+130
+00:09:56,821 --> 00:10:00,750
+he could design an aircraft part on an eighth or sheet of paper,
+
+131
+00:10:00,751 --> 00:10:04,350
+and then the drawing would be ready to be taken into the workshop right away.
+
+132
+00:10:04,351 --> 00:10:12,240
+This consideration of his designs were that he was a very intuitive person,
+
+133
+00:10:12,241 --> 00:10:18,420
+but he would lose his temper a lot so many Cubans to wait.
+
+134
+00:10:18,421 --> 00:10:23,940
+Yet whilst the German authorities appeared to have lost interest in their jet industry in Britain,
+
+135
+00:10:23,941 --> 00:10:26,760
+Frank Whittles fortunes have changed.
+
+136
+00:10:26,761 --> 00:10:28,860
+After a long and frustrating battle,
+
+137
+00:10:28,861 --> 00:10:34,530
+the British Air Ministry finally agreed to finance and build a factory for him to manufacture his jet engine.
+
+138
+00:10:36,000 --> 00:10:43,320
+The Gloucester Aircraft Company was given the contract to produce an experimental plane that would prove whittles engines.
+
+139
+00:10:43,321 --> 00:10:45,030
+It was called the two thousand and eight.
+
+140
+00:10:46,440 --> 00:10:47,310
+The?
+
+141
+00:10:49,260 --> 00:10:51,480
+Finance are made of one thousand nine thousand one thousand,
+
+142
+00:10:51,481 --> 00:10:51,960
+nine hundred and ninety,
+
+143
+00:10:51,961 --> 00:10:54,060
+nine and twenty months after hands,
+
+144
+00:10:54,061 --> 00:10:57,630
+one of the Heinz one thousand eight hundred and seven eight had first flown at last.
+
+145
+00:10:57,631 --> 00:10:57,810
+He,
+
+146
+00:10:57,811 --> 00:10:59,490
+two thousand and eight took to the air.
+
+147
+00:11:02,940 --> 00:11:05,280
+The first flight of the two thousand and eight was a significant event,
+
+148
+00:11:05,281 --> 00:11:10,500
+because obviously this was the final proof of the aircraft's operational use.
+
+149
+00:11:13,290 --> 00:11:17,520
+Whittle overnight became the success he had achieved,
+
+150
+00:11:17,521 --> 00:11:25,200
+something that previously people for it wouldn't happen an aircraft from an archipelago and they would suddenly have an income gratulation well done,
+
+151
+00:11:25,201 --> 00:11:25,590
+you know,
+
+152
+00:11:25,591 --> 00:11:28,230
+in Frankfurt or Turnround said while it was bloody well designed to fly.
+
+153
+00:11:29,880 --> 00:11:36,570
+Amongst all this excitement was visiting American Army Chief of Staff General Henry Hap Arnold.
+
+154
+00:11:36,571 --> 00:11:41,880
+He was convinced that this British invention could help to spring board America into the race for the jet.
+
+155
+00:11:44,340 --> 00:11:50,100
+It was very surprised about the fact that the British had a jet engined aircraft flying,
+
+156
+00:11:50,101 --> 00:12:01,590
+and he can only speculate that the Germans were at least as far in their development of a jet aircraft as well so enthusiastic about the new jet technology and wanted to emphasize the?
+
+157
+00:12:01,591 --> 00:12:01,770
+U.
+
+158
+00:12:01,771 --> 00:12:03,540
+S need to catch up.
+
+159
+00:12:03,541 --> 00:12:04,110
+Arnold,
+
+160
+00:12:04,111 --> 00:12:08,730
+negotiated with the British government to bring an example of Whittle's engine to the United States,
+
+161
+00:12:08,731 --> 00:12:11,400
+said the American Turbojet programme could begin.
+
+162
+00:12:12,810 --> 00:12:16,170
+Britain's Prime Minister Winston Churchill was also eager to get the?
+
+163
+00:12:16,171 --> 00:12:16,350
+U.
+
+164
+00:12:16,351 --> 00:12:20,910
+S committed to the British war effort and agreed to hand over whittles jet designs.
+
+165
+00:12:22,410 --> 00:12:29,670
+Churchill's attitude was how can we involve America in our fight against the dictatorships?
+
+166
+00:12:29,671 --> 00:12:41,430
+And he's seen the the fact that we would give this this very latest development of technology to the Americans freely would help them appreciate this sort of problems we were in and later on.
+
+167
+00:12:41,431 --> 00:12:42,900
+maybe come down on our side.
+
+168
+00:12:44,100 --> 00:12:48,270
+Hastily arrangements were made to box up whittles engine parts and plans.
+
+169
+00:12:50,520 --> 00:12:51,600
+Amidst top secrecy,
+
+170
+00:12:51,601 --> 00:12:55,410
+this precious cargo was loaded into a bummer and flown to a bowling field.
+
+171
+00:12:55,411 --> 00:12:56,070
+In Washington,
+
+172
+00:12:56,071 --> 00:12:56,640
+DC.
+
+173
+00:13:01,500 --> 00:13:05,310
+It was then transported to the General Electric plant in Massachusetts.
+
+174
+00:13:09,540 --> 00:13:09,840
+Lynch.
+
+175
+00:13:11,670 --> 00:13:15,120
+Unlike the small scale of development that will face in Great Britain,
+
+176
+00:13:15,121 --> 00:13:17,760
+the American effort in modifying and improving his engine,
+
+177
+00:13:17,761 --> 00:13:19,350
+United States was on a large scale.
+
+178
+00:13:20,580 --> 00:13:22,020
+At the General Electric plant,
+
+179
+00:13:22,021 --> 00:13:31,440
+the company used its experience in heat resists in a high street alloys to modify and improve what would eventually become the general electric ion engines.
+
+180
+00:13:31,441 --> 00:13:34,740
+I cannot overemphasize the secrecy and the importance of this work.
+
+181
+00:13:35,940 --> 00:13:39,300
+We know that both the Italians and the Germans are working on jets.
+
+182
+00:13:40,980 --> 00:13:44,370
+I hardly need to tell you that they must not win the race.
+
+183
+00:13:46,500 --> 00:13:48,780
+Given unlimited priority,
+
+184
+00:13:48,781 --> 00:13:52,560
+we will have the first unit running on task in six months.
+
+185
+00:13:54,510 --> 00:13:55,110
+Meanwhile,
+
+186
+00:13:55,111 --> 00:13:56,160
+in Germany,
+
+187
+00:13:56,161 --> 00:13:58,710
+despite Nazi indifference to the jet,
+
+188
+00:13:58,711 --> 00:14:01,530
+ankles team continued to develop a jet fighter.
+
+189
+00:14:03,030 --> 00:14:03,480
+On March,
+
+190
+00:14:03,481 --> 00:14:04,350
+the thirtieth one thousand,
+
+191
+00:14:04,351 --> 00:14:05,580
+nine hundred and eighty one,
+
+192
+00:14:05,581 --> 00:14:06,750
+the hanckel tomato,
+
+193
+00:14:06,751 --> 00:14:08,070
+had its first test flight.
+
+194
+00:14:08,940 --> 00:14:13,620
+Triumphantly hands on her hind was amongst those who reveled in this momentous occasion.
+
+195
+00:14:14,880 --> 00:14:16,440
+Howard by his jet,
+
+196
+00:14:16,441 --> 00:14:22,110
+the plane was a superb design capable of speeds in excess of five hundred miles per hour.
+
+197
+00:14:22,111 --> 00:14:24,840
+It was light years ahead of all its competitors.
+
+198
+00:14:25,830 --> 00:14:30,300
+The test flight was a huge personal success for Hanckel and von Hohenheim,
+
+199
+00:14:30,301 --> 00:14:34,050
+but sadly there jet fighter was not destined to be a winner.
+
+200
+00:14:35,640 --> 00:14:43,770
+At the core of his uncle's problem with getting contracts for operational jet and rocket aircraft was his inability to play by the rules the Russian Air Ministry.
+
+201
+00:14:43,771 --> 00:14:45,000
+but on the other hand,
+
+202
+00:14:45,001 --> 00:14:48,930
+measurement was able to play by the rules and was awarded with substantial contracts.
+
+203
+00:14:51,090 --> 00:14:51,570
+As one thousand,
+
+204
+00:14:51,571 --> 00:14:54,090
+nine hundred and eighty one drew to a close Britain,
+
+205
+00:14:54,091 --> 00:14:57,690
+America and Germany were all committed to jet development.
+
+206
+00:14:57,691 --> 00:15:01,380
+But for America another event made the race more intense.
+
+207
+00:15:03,960 --> 00:15:04,860
+On December seven,
+
+208
+00:15:04,861 --> 00:15:05,190
+one nine thousand,
+
+209
+00:15:05,191 --> 00:15:06,240
+nine hundred and eighty one,
+
+210
+00:15:06,241 --> 00:15:08,040
+Japan attacked Pearl Harbor.
+
+211
+00:15:10,380 --> 00:15:15,780
+America's entry into World War II brought a much needed lifeline to the allies in the battle against Germany.
+
+212
+00:15:17,790 --> 00:15:20,910
+The full blown rates for the first jet fighter was now on.
+
+213
+00:15:22,260 --> 00:15:23,280
+In Britain,
+
+214
+00:15:23,281 --> 00:15:28,170
+the government had finally given the go ahead for Frank to develop a jet engine for a fighter.
+
+215
+00:15:29,670 --> 00:15:30,900
+In America,
+
+216
+00:15:30,901 --> 00:15:33,870
+General Electric was pulling out all the stops.
+
+217
+00:15:33,871 --> 00:15:37,440
+Their promise to produce an engine within six months was on target.
+
+218
+00:15:38,430 --> 00:15:39,660
+And in Germany,
+
+219
+00:15:39,661 --> 00:15:47,850
+Hitler now saw the enemy to six to as a wonder weapon and pushed measurement for an early completion to get the plane into production.
+
+220
+00:15:47,851 --> 00:15:52,890
+Do you wonder why they wanted us to get a move on and granted permission to any of her nourishment?
+
+221
+00:15:52,891 --> 00:15:54,150
+Proposal is before we run.
+
+222
+00:15:55,650 --> 00:16:00,030
+The German jet aircraft industry was now moving forward at full speed.
+
+223
+00:16:00,031 --> 00:16:03,000
+Research and innovation was everywhere.
+
+224
+00:16:03,001 --> 00:16:08,070
+Designers and engineers came up with concepts that were years in advance of their time.
+
+225
+00:16:08,071 --> 00:16:15,540
+Wind tunnel tests into sweat wings and fuselage configurations enable the German planemakers to be way ahead of the allies.
+
+226
+00:16:17,370 --> 00:16:26,760
+It was a mixture of calculations and calculate this in that and comparisons and was carrying out tells us until you got the feelings,
+
+227
+00:16:26,761 --> 00:16:28,140
+this was it,
+
+228
+00:16:28,141 --> 00:16:31,440
+and then he rebuilt it and tried it and measured it,
+
+229
+00:16:31,441 --> 00:16:32,580
+and it was fun.
+
+230
+00:16:37,620 --> 00:16:38,130
+On July,
+
+231
+00:16:38,131 --> 00:16:39,090
+the eighteenth one thousand,
+
+232
+00:16:39,091 --> 00:16:40,410
+nine hundred and ninety two,
+
+233
+00:16:40,411 --> 00:16:42,720
+the Emmy to six to made its debt.
+
+234
+00:16:44,640 --> 00:16:46,920
+At the first flight of the day was not without its own.
+
+235
+00:16:50,370 --> 00:16:51,150
+We haven't really.
+
+236
+00:16:51,151 --> 00:16:56,370
+We ran into difficulties when the plane's tail would not lift up,
+
+237
+00:16:56,371 --> 00:17:02,580
+so we ran tests and discovered that if the pilot brakes gently at speed,
+
+238
+00:17:02,581 --> 00:17:03,510
+then to tail,
+
+239
+00:17:03,511 --> 00:17:06,090
+when would it lift items that give you and no one else?
+
+240
+00:17:08,430 --> 00:17:12,450
+It worked when the aircraft reached a one hundred and twenty miles per hour.
+
+241
+00:17:12,451 --> 00:17:14,280
+The pilots touched the brakes,
+
+242
+00:17:14,281 --> 00:17:15,450
+the nose dropped,
+
+243
+00:17:15,451 --> 00:17:18,900
+the tale came up and the Emmy to six too,
+
+244
+00:17:18,901 --> 00:17:19,620
+took to the air.
+
+245
+00:17:24,840 --> 00:17:28,650
+The performance of the enemy to six to win its test flight was incredible.
+
+246
+00:17:30,030 --> 00:17:37,170
+On its second fly to climb to eleven thousand five hundred feet and reach the speed of four hundred and fifty miles per hour.
+
+247
+00:17:37,171 --> 00:17:37,680
+already,
+
+248
+00:17:37,681 --> 00:17:40,530
+it was faster than any allied planes in existence.
+
+249
+00:17:42,120 --> 00:17:42,570
+Soon,
+
+250
+00:17:42,571 --> 00:17:46,590
+German pilots would be flying at speeds that others could only have dreamt up.
+
+251
+00:17:49,860 --> 00:17:53,640
+That would the Emmy to six to be the answer to Hitler's dreams.
+
+252
+00:17:55,170 --> 00:18:01,590
+The Emmy to six tubes jet engines could now thrust it at speeds of over five hundred and fifty miles per hour.
+
+253
+00:18:01,591 --> 00:18:04,020
+It could simply outfly anything in the sky.
+
+254
+00:18:05,160 --> 00:18:07,770
+Armed with four thirty millimeter cannons,
+
+255
+00:18:07,771 --> 00:18:11,610
+each was capable of delivering over eighty explosive shells into the enemy.
+
+256
+00:18:12,750 --> 00:18:17,070
+Future plans were also to include twenty four wings slung air to air rocket.
+
+257
+00:18:18,360 --> 00:18:20,190
+Nicknamed the Swallow,
+
+258
+00:18:20,191 --> 00:18:26,100
+this awesome machine heralded the dawning of a new age of battle and for Hitler's lift buffer.
+
+259
+00:18:26,101 --> 00:18:29,700
+It was hoped that when it finally met the allied forces,
+
+260
+00:18:29,701 --> 00:18:31,350
+it's hell would be unleashed.
+
+261
+00:18:39,270 --> 00:18:45,060
+The successful test flight of the German Emmy to six too had at last proved to the left of alpha generals.
+
+262
+00:18:45,061 --> 00:18:48,240
+This was the fighting machine that could win the war,
+
+263
+00:18:48,241 --> 00:18:53,730
+but a lot of development work was still needed before it could become the old conquering answer to Nazi dreams.
+
+264
+00:18:58,050 --> 00:18:58,740
+In America,
+
+265
+00:18:58,741 --> 00:19:01,680
+two scientists were working around the clock.
+
+266
+00:19:01,681 --> 00:19:05,610
+Gc had successfully completed trials with their jet engines.
+
+267
+00:19:05,611 --> 00:19:09,930
+The Bell Aircraft Corporation was contracted to supply an experimental plane to test.
+
+268
+00:19:13,920 --> 00:19:14,460
+On October,
+
+269
+00:19:14,461 --> 00:19:18,210
+the first one thousand nine hundred and forty two amidst great secrecy,
+
+270
+00:19:18,211 --> 00:19:22,530
+America's first jet aircraft called the X P fifty nine and eight,
+
+271
+00:19:22,531 --> 00:19:23,430
+was flown at Meir,
+
+272
+00:19:23,431 --> 00:19:24,930
+a Dry lake in California.
+
+273
+00:19:26,670 --> 00:19:29,130
+But the tests were disappointed.
+
+274
+00:19:29,131 --> 00:19:33,600
+The aircraft could only manage a maximum speed of three hundred and ninety miles per hour.
+
+275
+00:19:33,601 --> 00:19:37,290
+This speed was below many of the German and allied piston powered planes.
+
+276
+00:19:38,370 --> 00:19:39,900
+But the X P fifty nine A,
+
+277
+00:19:39,901 --> 00:19:46,200
+did play an important part in the race and wants to be the foundation of America's future jet aircraft industry.
+
+278
+00:19:49,890 --> 00:19:57,570
+The American Turbojet Development program proceeded a slow pace because the overall objective of the American military was to win the war with the weapons at hand.
+
+279
+00:19:57,571 --> 00:20:01,620
+The construction in large numbers of conventional piston engined aircraft,
+
+280
+00:20:01,621 --> 00:20:06,300
+such as the North American Pvt one Mustang and the Boeing be seventeen.
+
+281
+00:20:06,301 --> 00:20:08,760
+Those were seen as the weapons it would win the war,
+
+282
+00:20:08,761 --> 00:20:08,910
+so,
+
+283
+00:20:08,911 --> 00:20:11,370
+looking at jet technology,
+
+284
+00:20:11,371 --> 00:20:13,140
+it was seen as a long term development.
+
+285
+00:20:15,360 --> 00:20:16,590
+Yet in Germany,
+
+286
+00:20:16,591 --> 00:20:22,020
+the Emmy to six to was given top priority as it went through a period of intense evaluation.
+
+287
+00:20:24,000 --> 00:20:24,360
+In May,
+
+288
+00:20:24,361 --> 00:20:24,630
+nine thousand,
+
+289
+00:20:24,631 --> 00:20:25,650
+nine hundred and eighty three,
+
+290
+00:20:25,651 --> 00:20:26,280
+the Luftwaffe,
+
+291
+00:20:26,281 --> 00:20:31,320
+his most famous areas and of Garland flew the Emmy to substitute for the first time.
+
+292
+00:20:33,510 --> 00:20:34,350
+After the flight,
+
+293
+00:20:34,351 --> 00:20:38,010
+he was a main saying This is not a step forward.
+
+294
+00:20:38,011 --> 00:20:38,820
+This is a leap.
+
+295
+00:20:40,080 --> 00:20:44,040
+He also described the flight as like being pushed by angels.
+
+296
+00:20:48,240 --> 00:20:52,650
+Hitler to was becoming more and more excited about the plane's performance.
+
+297
+00:20:52,651 --> 00:20:56,070
+with his right now coming under daily attacks from allied bombers,
+
+298
+00:20:56,071 --> 00:20:59,760
+he ordered the Emmy to six to to be put into full scale production,
+
+299
+00:20:59,761 --> 00:21:01,260
+not only as a fighter,
+
+300
+00:21:01,261 --> 00:21:03,360
+but also was a bummer.
+
+301
+00:21:03,361 --> 00:21:05,670
+He felt that if he had one thousand jet bombers,
+
+302
+00:21:05,671 --> 00:21:09,300
+they could halt or at least delay the expected Allied invasion.
+
+303
+00:21:11,670 --> 00:21:12,780
+Messerschmitt Segura,
+
+304
+00:21:12,781 --> 00:21:13,500
+Mr Smith,
+
+305
+00:21:13,501 --> 00:21:16,170
+had been asked if you could drop bombs with it.
+
+306
+00:21:16,171 --> 00:21:18,450
+Of course you could drop bombs on it.
+
+307
+00:21:18,451 --> 00:21:21,960
+But that was not what it had been built for land.
+
+308
+00:21:21,961 --> 00:21:25,140
+Two bombs were only fitted underneath because we'd been ordered to do so.
+
+309
+00:21:26,940 --> 00:21:30,720
+Some blame teachers and others tried to put the blame elsewhere.
+
+310
+00:21:30,721 --> 00:21:31,260
+All nonsense.
+
+311
+00:21:34,380 --> 00:21:41,130
+The confusion and trying to build freighter versions and modify the plan to be Obama would be a disastrous mistake.
+
+312
+00:21:47,280 --> 00:21:47,700
+On June,
+
+313
+00:21:47,701 --> 00:21:48,420
+the sixth one thousand,
+
+314
+00:21:48,421 --> 00:21:53,340
+nine hundred and ninety nine for the Allies successfully landed on the beaches of France.
+
+315
+00:21:53,341 --> 00:21:55,050
+The invasion of Europe had begun.
+
+316
+00:21:56,400 --> 00:21:59,460
+Vainly the Germans tried to throw the invaders back,
+
+317
+00:21:59,461 --> 00:22:04,500
+but with the allies have incomplete air superiority and with no operational Emmy to six too,
+
+318
+00:22:04,501 --> 00:22:05,460
+is available.
+
+319
+00:22:05,461 --> 00:22:07,200
+The Germans were forced to retreat.
+
+320
+00:22:10,890 --> 00:22:12,060
+On hearing this,
+
+321
+00:22:12,061 --> 00:22:16,440
+it is reported that Hitler flew into a rage and two days after the day,
+
+322
+00:22:16,441 --> 00:22:20,280
+he announced a few rabbits and order of the leader,
+
+323
+00:22:20,281 --> 00:22:23,760
+which demanded the Emmy to six to be made only as a bomber.
+
+324
+00:22:27,240 --> 00:22:29,130
+Despite Hitler's orders,
+
+325
+00:22:29,131 --> 00:22:33,450
+limited numbers of the fighter version did come off the production line.
+
+326
+00:22:33,451 --> 00:22:35,610
+They were quickly rushed to the training schools.
+
+327
+00:22:37,050 --> 00:22:39,060
+Destined to be flown by the elite.
+
+328
+00:22:39,061 --> 00:22:43,920
+It was here that the cream of the German Luftwaffe and saw the Emmy to six to for the first time.
+
+329
+00:22:46,170 --> 00:22:47,670
+Training for professionals,
+
+330
+00:22:47,671 --> 00:22:50,010
+We were surprised when we first saw it standing there.
+
+331
+00:22:51,000 --> 00:22:55,080
+The gun that was really not credible,
+
+332
+00:22:55,081 --> 00:22:58,470
+the training of these pilots was given top priority,
+
+333
+00:22:58,471 --> 00:23:00,360
+but with the tide of war running against them,
+
+334
+00:23:00,361 --> 00:23:02,640
+there was little time for classroom tactics.
+
+335
+00:23:04,560 --> 00:23:06,360
+You are full of the training.
+
+336
+00:23:06,361 --> 00:23:09,660
+It was a very simple via tag for half days of lessons.
+
+337
+00:23:10,650 --> 00:23:15,570
+Then you had to do your first flight on your own because the machines were single seasons.
+
+338
+00:23:18,180 --> 00:23:23,190
+One day we had to give our work that we would not damage the machines.
+
+339
+00:23:23,191 --> 00:23:28,770
+otherwise we would be punished or immediately sent back to the units we can try it out for their own economies.
+
+340
+00:23:29,880 --> 00:23:30,780
+With that warning,
+
+341
+00:23:30,781 --> 00:23:34,110
+uppermost in their minds even for these experienced pilots,
+
+342
+00:23:34,111 --> 00:23:35,970
+the first flights were always known.
+
+343
+00:23:37,770 --> 00:23:39,480
+Again,
+
+344
+00:23:39,481 --> 00:23:43,800
+if a sergeant who was on the wing explained to me the interior of the plain facts,
+
+345
+00:23:43,801 --> 00:23:45,180
+especially what to look out for.
+
+346
+00:23:46,740 --> 00:23:47,460
+For example,
+
+347
+00:23:47,461 --> 00:23:51,960
+the guests for the engine was only stepped on very slowly in each day,
+
+348
+00:23:51,961 --> 00:23:53,400
+otherwise the engine would stall.
+
+349
+00:23:55,230 --> 00:23:59,460
+The turbine engine had to get used to the speed very slowly,
+
+350
+00:23:59,461 --> 00:24:00,780
+so one had to be very careful.
+
+351
+00:24:03,090 --> 00:24:06,480
+Joshua of Persons once in the air,
+
+352
+00:24:06,481 --> 00:24:13,350
+the experience of flying and Emmy to six to surpassed all their expectations from Pfleger Yeltsin.
+
+353
+00:24:13,351 --> 00:24:15,690
+here for any pilot passionate about flying.
+
+354
+00:24:15,691 --> 00:24:18,090
+It was a most extraordinary experience,
+
+355
+00:24:18,091 --> 00:24:22,050
+especially so because the roaring engine was not in front of your news.
+
+356
+00:24:22,051 --> 00:24:23,280
+All the noise was behind.
+
+357
+00:24:23,281 --> 00:24:23,430
+You.
+
+358
+00:24:24,450 --> 00:24:25,230
+A wonderful thing.
+
+359
+00:24:28,800 --> 00:24:29,310
+Our solution.
+
+360
+00:24:30,480 --> 00:24:32,010
+The speed was really enormous.
+
+361
+00:24:32,910 --> 00:24:35,580
+And the flying characteristics were so advantageous.
+
+362
+00:24:36,840 --> 00:24:39,420
+You actually had a sense of confidence in that machine.
+
+363
+00:24:42,210 --> 00:24:46,560
+Although the German pilots would praise the takeoff and speed at the plane,
+
+364
+00:24:46,561 --> 00:24:49,020
+it was the landing that gave them problems.
+
+365
+00:24:49,021 --> 00:24:55,860
+I don't have no one to nine Plain one could just switch off the engine and drift done slowly.
+
+366
+00:24:55,861 --> 00:24:58,260
+But in this plane it wasn't possible at all.
+
+367
+00:24:59,460 --> 00:25:04,800
+I was traveling at a speed of four hundred and five hundred miles per hour and couldn't reduce it.
+
+368
+00:25:04,801 --> 00:25:07,410
+The plane just wouldn't descend.
+
+369
+00:25:07,411 --> 00:25:16,350
+I looked at the altitude meter and had to fly in circles until I finally reached an altitude of three thousand feet then asked for permission to land,
+
+370
+00:25:16,351 --> 00:25:19,590
+I lowered the landing gear and slowly approached the runway.
+
+371
+00:25:20,730 --> 00:25:21,180
+Finally,
+
+372
+00:25:21,181 --> 00:25:26,790
+I was able to learn to see if anyone was greatly relieved and contrast to my usual take off in London.
+
+373
+00:25:26,791 --> 00:25:33,090
+It was completely soaked with sweat and the seeking new flu shots and learn a lot as its creatures.
+
+374
+00:25:34,590 --> 00:25:35,160
+Initially,
+
+375
+00:25:35,161 --> 00:25:38,460
+it was planned that only fighter aces would fly the plane,
+
+376
+00:25:38,461 --> 00:25:42,390
+but four years of war had taken its toll on the left above his finest,
+
+377
+00:25:42,391 --> 00:25:43,950
+so regular planets,
+
+378
+00:25:43,951 --> 00:25:48,090
+some with as little as ten hours' flying experience were drafted in.
+
+379
+00:25:48,091 --> 00:25:50,040
+But for inexperienced pilots,
+
+380
+00:25:50,041 --> 00:25:53,370
+the Emmy to six to was not an easy plan to fly,
+
+381
+00:25:53,371 --> 00:25:56,910
+and over two hundred pilots were killed in training alone.
+
+382
+00:25:56,911 --> 00:25:59,160
+That's a really funny is,
+
+383
+00:25:59,161 --> 00:26:00,120
+of course,
+
+384
+00:26:00,121 --> 00:26:03,810
+the first ones to whom I count myself as well.
+
+385
+00:26:03,811 --> 00:26:04,590
+We were the best.
+
+386
+00:26:05,730 --> 00:26:13,470
+But those who followed us we're often at the beginning of their pilot training and didn't cope with the machine that's going to put.
+
+387
+00:26:13,471 --> 00:26:14,100
+those people in.
+
+388
+00:26:14,101 --> 00:26:15,810
+The jet was totally irresponsible.
+
+389
+00:26:18,150 --> 00:26:18,720
+We had young,
+
+390
+00:26:18,721 --> 00:26:19,560
+glossy standard.
+
+391
+00:26:22,170 --> 00:26:22,920
+By mid nine thousand,
+
+392
+00:26:22,921 --> 00:26:24,030
+nine hundred and ninety four,
+
+393
+00:26:24,031 --> 00:26:26,580
+those pilots that had survived the training was sent.
+
+394
+00:26:26,581 --> 00:26:33,900
+A newly formed squadrons ground crews to wear hastily recruited to service and maintain these new wonder weapon.
+
+395
+00:26:36,870 --> 00:26:38,850
+We have found,
+
+396
+00:26:38,851 --> 00:26:40,470
+generally speaking,
+
+397
+00:26:40,471 --> 00:26:46,410
+my experience was that the ground crew tried very hard to ensure that the planes were always ready for takeoff.
+
+398
+00:26:48,390 --> 00:26:55,980
+I did not get to know them well enough because I've always had to be ready for action and was waiting for an emergency takeoff.
+
+399
+00:26:55,981 --> 00:26:58,110
+That's how long standards.
+
+400
+00:26:58,111 --> 00:27:01,380
+sometimes that does not happen at all.
+
+401
+00:27:01,381 --> 00:27:04,470
+Hence the saying half of one's life.
+
+402
+00:27:04,471 --> 00:27:05,250
+It's on weights,
+
+403
+00:27:05,251 --> 00:27:07,110
+invasion of dementia games.
+
+404
+00:27:11,280 --> 00:27:11,370
+Oh,
+
+405
+00:27:11,371 --> 00:27:11,610
+yeah.
+
+406
+00:27:16,440 --> 00:27:16,740
+Stem?
+
+407
+00:27:19,350 --> 00:27:21,810
+Yet the waiting was short lived,
+
+408
+00:27:21,811 --> 00:27:24,480
+with thousands of bombers now pounding Germany.
+
+409
+00:27:24,481 --> 00:27:25,320
+Every available.
+
+410
+00:27:25,321 --> 00:27:26,790
+Pilots was thrown into action.
+
+411
+00:27:31,710 --> 00:27:32,310
+Just go.
+
+412
+00:27:50,610 --> 00:27:51,210
+On July,
+
+413
+00:27:51,211 --> 00:27:51,780
+two thousand and nine thousand,
+
+414
+00:27:51,781 --> 00:27:52,020
+one thousand,
+
+415
+00:27:52,021 --> 00:28:01,320
+nine hundred and ninety nine an Emmy to six to became the first jet airplane to be used in combat when it shot down a British photo reconnaissance mosquito flying over Munich.
+
+416
+00:28:03,150 --> 00:28:09,870
+It now appeared that the race for the jet fighter had been won and with it the prize of victory in the skies,
+
+417
+00:28:09,871 --> 00:28:12,270
+which was now within the liftoff as grubs.
+
+418
+00:28:16,740 --> 00:28:18,060
+During the late summer of one thousand,
+
+419
+00:28:18,061 --> 00:28:24,960
+nine hundred and ninety nine more and more German lived for pilots were taking their new Emmy to six to jet fighters into battle.
+
+420
+00:28:24,961 --> 00:28:30,570
+It seemed as though finally they now had a weapon that could beat the Allied bombers and their high speed escort.
+
+421
+00:28:32,700 --> 00:28:38,850
+This British spying in March there were two groups of four mustangs in close formation,
+
+422
+00:28:38,851 --> 00:28:42,750
+and they were so incredibly confident they hadn't seen me,
+
+423
+00:28:42,751 --> 00:28:45,300
+and that was a mistake.
+
+424
+00:28:45,301 --> 00:28:46,530
+I'm sharing the young,
+
+425
+00:28:46,531 --> 00:28:47,400
+some guys Yankees,
+
+426
+00:28:47,401 --> 00:28:48,360
+are.
+
+427
+00:28:48,361 --> 00:28:51,060
+I actually felt sorry for the guys is they hadn't noticed me?
+
+428
+00:28:52,110 --> 00:28:53,100
+I came from deep,
+
+429
+00:28:53,101 --> 00:28:53,370
+low,
+
+430
+00:28:53,371 --> 00:28:57,570
+right and flew in there we had four thirty millimeter guns the mark,
+
+431
+00:28:57,571 --> 00:28:58,890
+one of eight.
+
+432
+00:28:58,891 --> 00:29:00,870
+there was an incredible fire,
+
+433
+00:29:00,871 --> 00:29:03,420
+because the whole thing presented itself to me.
+
+434
+00:29:03,421 --> 00:29:05,280
+I was a long outstretched point.
+
+435
+00:29:05,281 --> 00:29:06,330
+You couldn't actually miss.
+
+436
+00:29:07,410 --> 00:29:09,000
+And then two fighters dropped down.
+
+437
+00:29:11,010 --> 00:29:14,250
+With one I saw a parachute travel with the other one.
+
+438
+00:29:14,251 --> 00:29:14,700
+I didn't.
+
+439
+00:29:16,080 --> 00:29:17,640
+That was such a case.
+
+440
+00:29:21,390 --> 00:29:22,110
+By late one thousand,
+
+441
+00:29:22,111 --> 00:29:27,420
+nine hundred and ninety four to six tubes were attacking the Allied bombers with devastating effect,
+
+442
+00:29:27,421 --> 00:29:31,080
+Allied fighter and bomber crews were unsure how to deal with them.
+
+443
+00:29:31,081 --> 00:29:35,610
+Their speed and firepower with just two is so close to the ground.
+
+444
+00:29:35,611 --> 00:29:37,020
+We couldn't get a shot.
+
+445
+00:29:39,270 --> 00:29:39,870
+And then he goes.
+
+446
+00:29:42,840 --> 00:29:49,500
+My fellows and I just said the graphical we just saw a real pilot.
+
+447
+00:29:51,000 --> 00:30:03,750
+We were jumped by nearly two hundred and sixty two and only got a very short glimpse of him because he made an attack from about three o'clock and he came down through the group.
+
+448
+00:30:05,250 --> 00:30:06,240
+Went by so fast,
+
+449
+00:30:06,241 --> 00:30:07,410
+we can only see him.
+
+450
+00:30:08,430 --> 00:30:12,600
+It was really shocked because it was like nothing that we'd seen before.
+
+451
+00:30:13,800 --> 00:30:19,020
+The German pilots had not felt such supremacy in the air since the early days of the war.
+
+452
+00:30:19,021 --> 00:30:25,560
+They felt sure that this incredible plane would turn the tide dial floaters and decent alarm.
+
+453
+00:30:25,561 --> 00:30:31,200
+I flew to the area around Dresden and went down to sixteen thousand feet.
+
+454
+00:30:31,201 --> 00:30:35,370
+I started to fighter planes as they were above me,
+
+455
+00:30:35,371 --> 00:30:40,590
+I increased my altitude and I took one of the fighter planes in my sights.
+
+456
+00:30:40,591 --> 00:30:41,160
+In those days,
+
+457
+00:30:41,161 --> 00:30:41,610
+the machine,
+
+458
+00:30:41,611 --> 00:30:43,860
+guns and cannons were automatically switched on.
+
+459
+00:30:45,240 --> 00:30:49,680
+I had full cannons and I gave off a burst of fire damage,
+
+460
+00:30:49,681 --> 00:30:51,210
+and before I knew it,
+
+461
+00:30:51,211 --> 00:30:55,020
+the pilot parachuted out of his plane where I had hit him.
+
+462
+00:30:55,021 --> 00:30:55,740
+I did not know.
+
+463
+00:30:57,240 --> 00:30:58,710
+It was all very new,
+
+464
+00:30:58,711 --> 00:30:59,670
+much too fast.
+
+465
+00:30:59,671 --> 00:31:01,530
+Jim was watching.
+
+466
+00:31:01,531 --> 00:31:02,430
+It often has a silence,
+
+467
+00:31:02,431 --> 00:31:02,670
+guns,
+
+468
+00:31:02,671 --> 00:31:03,720
+volume features,
+
+469
+00:31:03,721 --> 00:31:06,630
+and then suddenly I saw the second fighter plane in front of me.
+
+470
+00:31:07,830 --> 00:31:09,300
+And I fired at it,
+
+471
+00:31:09,301 --> 00:31:10,050
+and it went down,
+
+472
+00:31:10,051 --> 00:31:12,990
+surrounded by smoke that looked like a flag.
+
+473
+00:31:12,991 --> 00:31:13,980
+Starting its army.
+
+474
+00:31:16,290 --> 00:31:20,190
+But it was the bombers that were the Emmy to six two's real prey.
+
+475
+00:31:21,060 --> 00:31:22,050
+Lift of Autopilot,
+
+476
+00:31:22,051 --> 00:31:27,330
+Alfred Arms was on a routine patrol when he came across a be seventeen on its thirteen commission.
+
+477
+00:31:28,290 --> 00:31:29,400
+Tito shook the system.
+
+478
+00:31:29,401 --> 00:31:35,820
+Everyone quickly chose a plane without having any great discussions about whether they were going to take this or the other player poses.
+
+479
+00:31:35,821 --> 00:31:36,270
+Instead,
+
+480
+00:31:36,271 --> 00:31:39,510
+you would say the best position for me is the one in the middle.
+
+481
+00:31:39,511 --> 00:31:40,260
+That's not a role.
+
+482
+00:31:40,261 --> 00:31:42,090
+There were enough planes in the sky,
+
+483
+00:31:42,091 --> 00:31:43,470
+which made it easy to pick one image.
+
+484
+00:31:45,090 --> 00:31:48,690
+The rear gather in that particular be seventeen was nineteen year old,
+
+485
+00:31:48,691 --> 00:31:50,130
+Craig Bennett.
+
+486
+00:31:50,131 --> 00:31:52,140
+He came so fast.
+
+487
+00:31:52,141 --> 00:31:56,640
+all you had time was just pull the triggers and let the guns fire.
+
+488
+00:31:58,110 --> 00:31:59,160
+Aim the Ms Bastion,
+
+489
+00:31:59,161 --> 00:32:00,090
+cut out this night.
+
+490
+00:32:05,100 --> 00:32:07,920
+I was aiming at a fortress when suddenly ahead of me,
+
+491
+00:32:07,921 --> 00:32:14,850
+there was a large wall of fire into which the captain of my squadron and others disappeared in alchemy,
+
+492
+00:32:14,851 --> 00:32:15,510
+fresh ones.
+
+493
+00:32:17,040 --> 00:32:20,220
+The first plane was the leader and he hit our plane.
+
+494
+00:32:22,740 --> 00:32:24,390
+The plane just blew up.
+
+495
+00:32:24,391 --> 00:32:27,210
+The whole brain exploded his plane and ours.
+
+496
+00:32:30,120 --> 00:32:31,530
+Uber defy a bicycle autumn.
+
+497
+00:32:31,531 --> 00:32:34,920
+I was able to fly over the wall of fame.
+
+498
+00:32:34,921 --> 00:32:41,220
+It turned out that the fortress had exploded and taken to adjacent flames with AMC hit safely.
+
+499
+00:32:41,221 --> 00:32:43,530
+That's how big the explosion was.
+
+500
+00:32:43,531 --> 00:32:45,420
+So if you think about the explosion footmen.
+
+501
+00:32:48,870 --> 00:32:50,370
+And the tail broke off.
+
+502
+00:32:51,690 --> 00:32:53,490
+and started falling.
+
+503
+00:32:54,450 --> 00:32:56,550
+And the rest of the plane was gone.
+
+504
+00:32:58,380 --> 00:32:59,430
+I was only one.
+
+505
+00:32:59,431 --> 00:33:00,450
+they got out of my eye.
+
+506
+00:33:02,010 --> 00:33:03,210
+Craig Bennett was to spend.
+
+507
+00:33:03,211 --> 00:33:04,620
+The rest of the war is a peer,
+
+508
+00:33:04,621 --> 00:33:05,040
+W.
+
+509
+00:33:08,940 --> 00:33:11,640
+Yet it was not all a one sided fight.
+
+510
+00:33:11,641 --> 00:33:14,280
+Once they got over the shock of these new wonder weapons,
+
+511
+00:33:14,281 --> 00:33:18,600
+the Allied pilots slowly began to learn how to deal with the German gentlemen.
+
+512
+00:33:18,601 --> 00:33:26,220
+The first problem was how to overcome the huge speed disadvantage the pilot's found that when they put the Mustang into a steep dive,
+
+513
+00:33:26,221 --> 00:33:28,770
+their speed was the same as the Emmy to six too.
+
+514
+00:33:29,880 --> 00:33:32,760
+So I just bent the throttle as far as it goes forward,
+
+515
+00:33:32,761 --> 00:33:34,350
+without going through the stop.
+
+516
+00:33:35,370 --> 00:33:36,090
+And?
+
+517
+00:33:38,430 --> 00:33:39,330
+Slowly,
+
+518
+00:33:39,331 --> 00:33:39,960
+very,
+
+519
+00:33:39,961 --> 00:33:44,610
+very slowly start gain a little on the guy because he was making a little term.
+
+520
+00:33:44,611 --> 00:33:45,780
+And each time you turn a little bit,
+
+521
+00:33:45,781 --> 00:33:46,710
+I get a little closer.
+
+522
+00:33:47,700 --> 00:33:50,190
+When I finally got up raids,
+
+523
+00:33:50,191 --> 00:33:52,440
+this guy was inexperienced.
+
+524
+00:33:52,441 --> 00:33:53,760
+Sure,
+
+525
+00:33:53,761 --> 00:33:56,700
+as when he saw the first tracers,
+
+526
+00:33:56,701 --> 00:33:57,210
+either no.
+
+527
+00:33:57,211 --> 00:33:59,250
+by hammer hit his airplane,
+
+528
+00:33:59,251 --> 00:34:00,660
+he made a turn.
+
+529
+00:34:00,661 --> 00:34:02,700
+If you to put his nose down,
+
+530
+00:34:02,701 --> 00:34:03,300
+how do we run?
+
+531
+00:34:03,301 --> 00:34:04,080
+We probably know God.
+
+532
+00:34:05,550 --> 00:34:07,020
+A movie where we've gotten range.
+
+533
+00:34:10,410 --> 00:34:16,200
+The Allied pilots also found that the Emmy to six to did not respond US quake in a turn as propeller planes.
+
+534
+00:34:17,100 --> 00:34:18,870
+This would have deadly consequences.
+
+535
+00:34:21,120 --> 00:34:29,040
+I was on the inside of his circle and I was able to get a bead on him and shoot in front of him,
+
+536
+00:34:29,041 --> 00:34:30,960
+so he would fly into the bullets.
+
+537
+00:34:36,780 --> 00:34:39,840
+But it was on takeoff and landing at the Emmy to six too,
+
+538
+00:34:39,841 --> 00:34:41,070
+with at its most vulnerable.
+
+539
+00:34:42,150 --> 00:34:45,600
+Allied pilots lay in wait around the airfields.
+
+540
+00:34:45,601 --> 00:34:47,940
+Hundreds of two six two pilots were to dine.
+
+541
+00:34:47,941 --> 00:34:49,380
+In this way.
+
+542
+00:34:49,381 --> 00:34:55,260
+the Americana see the Americans change their tactics to concentrate on all their fields,
+
+543
+00:34:55,261 --> 00:34:57,390
+where jet fighter units with station I live.
+
+544
+00:34:59,070 --> 00:35:02,760
+This way they were able to hit us when we were most vulnerable.
+
+545
+00:35:02,761 --> 00:35:06,540
+We were like during startup and landing for boats.
+
+546
+00:35:06,541 --> 00:35:08,430
+Postage tend to get rid of this.
+
+547
+00:35:08,431 --> 00:35:10,890
+where their start during takeoff.
+
+548
+00:35:10,891 --> 00:35:12,300
+We did not have enough speed.
+
+549
+00:35:13,470 --> 00:35:14,730
+And when landing,
+
+550
+00:35:14,731 --> 00:35:16,830
+we had to reduce it.
+
+551
+00:35:16,831 --> 00:35:18,150
+That was the problem.
+
+552
+00:35:18,151 --> 00:35:19,380
+this we're just picking.
+
+553
+00:35:23,820 --> 00:35:26,130
+With the tide of war turning against them,
+
+554
+00:35:26,131 --> 00:35:30,270
+the Emmy to six to superiority in the skies was over.
+
+555
+00:35:30,271 --> 00:35:38,190
+More and more planes were being shot down and fear was ever present in the remaining pilots mines to get out and come down.
+
+556
+00:35:38,191 --> 00:35:43,290
+The thoughts would only enter your head at a later stage when within the squadron,
+
+557
+00:35:43,291 --> 00:35:47,100
+nearly every third or fourth person had to be replaced every week.
+
+558
+00:35:50,400 --> 00:35:52,230
+The longer the war lasted,
+
+559
+00:35:52,231 --> 00:35:54,270
+the more this occurred.
+
+560
+00:35:54,271 --> 00:35:56,640
+I believe this led to the end of the wall,
+
+561
+00:35:56,641 --> 00:35:57,720
+some in difficulty.
+
+562
+00:35:59,400 --> 00:36:03,870
+Furious that the new jet squadrons were being wasted by the German High Command,
+
+563
+00:36:03,871 --> 00:36:07,320
+and under insistence of General Galland and other famous essays,
+
+564
+00:36:07,321 --> 00:36:12,720
+is Hitler reluctantly allowed every twentieth Amy to six to to be built as a fighter.
+
+565
+00:36:13,800 --> 00:36:15,600
+That's about thirty feet and having a bastion,
+
+566
+00:36:15,601 --> 00:36:17,490
+it was a completely wrong thing to do.
+
+567
+00:36:18,450 --> 00:36:21,750
+And some of the bombers were used as night fighters.
+
+568
+00:36:21,751 --> 00:36:22,920
+they had totally misjudge.
+
+569
+00:36:22,921 --> 00:36:27,450
+The situation can only assume that they were following their own delusion.
+
+570
+00:36:27,451 --> 00:36:31,500
+Feedback about the infamous fear of Bethel.
+
+571
+00:36:31,501 --> 00:36:35,220
+The order of the leader was at last rescinded in late one thousand,
+
+572
+00:36:35,221 --> 00:36:36,780
+nine hundred and ninety four.
+
+573
+00:36:36,781 --> 00:36:41,550
+Hitler finally ordered that all Emmy to six tubes should now be built as fighters.
+
+574
+00:36:43,320 --> 00:36:45,750
+With the allies marching into Germany,
+
+575
+00:36:45,751 --> 00:36:46,710
+was it to little?
+
+576
+00:36:54,990 --> 00:36:55,800
+By early one thousand,
+
+577
+00:36:55,801 --> 00:36:56,910
+nine hundred and ninety five,
+
+578
+00:36:56,911 --> 00:37:00,030
+and with nearly all her factories destroyed by the Allies,
+
+579
+00:37:00,031 --> 00:37:05,190
+Germany was finding it almost impossible to produce the jet fighters so desperately needed.
+
+580
+00:37:05,191 --> 00:37:07,110
+So a novel solution was brought about.
+
+581
+00:37:08,160 --> 00:37:09,540
+If I feel new.
+
+582
+00:37:10,500 --> 00:37:12,510
+The bombing did slow everything down.
+
+583
+00:37:14,310 --> 00:37:16,740
+But if we had enough material,
+
+584
+00:37:16,741 --> 00:37:19,500
+we could have manufactured the required numbers.
+
+585
+00:37:19,501 --> 00:37:20,520
+Let's say forty,
+
+586
+00:37:20,521 --> 00:37:21,570
+three or forty four.
+
+587
+00:37:23,040 --> 00:37:24,960
+The rain fiancee fiance Betsy,
+
+588
+00:37:24,961 --> 00:37:25,590
+in the end,
+
+589
+00:37:25,591 --> 00:37:28,860
+we got used to it more went into the woods,
+
+590
+00:37:28,861 --> 00:37:31,050
+where we put up large shelters.
+
+591
+00:37:31,051 --> 00:37:37,080
+Camouflage tennis manufactured throughout Germany.
+
+592
+00:37:37,081 --> 00:37:42,090
+Sections of the Emmy to six to were then delivered under cover of darkness by truck,
+
+593
+00:37:42,091 --> 00:37:42,870
+horse and cart,
+
+594
+00:37:42,871 --> 00:37:46,710
+and even bicycles to be fully assembled in forests.
+
+595
+00:37:46,711 --> 00:37:49,050
+Over eight hundred were to be built in this way.
+
+596
+00:37:52,590 --> 00:37:57,240
+But as more and more Emmy to six tubes were being destroyed by allied fighters,
+
+597
+00:37:57,241 --> 00:37:59,970
+so too with the cream of the German live together.
+
+598
+00:38:02,520 --> 00:38:07,530
+One day a plane came crashing down above me and my plane caught fire.
+
+599
+00:38:07,531 --> 00:38:08,460
+I had to bail out.
+
+600
+00:38:09,330 --> 00:38:11,550
+That's how I had to land with my parachute.
+
+601
+00:38:12,600 --> 00:38:14,130
+And that was the end of the war.
+
+602
+00:38:14,131 --> 00:38:14,610
+For me.
+
+603
+00:38:17,730 --> 00:38:19,560
+If I am a Canadian,
+
+604
+00:38:19,561 --> 00:38:23,400
+there was suddenly a big bang for a couple of brief moments.
+
+605
+00:38:23,401 --> 00:38:26,100
+I did not look back as I would usually do.
+
+606
+00:38:26,101 --> 00:38:27,990
+I was looking in the sky to see what had happened.
+
+607
+00:38:30,330 --> 00:38:31,560
+There was a flash some way.
+
+608
+00:38:31,561 --> 00:38:33,060
+Oh,
+
+609
+00:38:33,061 --> 00:38:33,210
+then,
+
+610
+00:38:33,211 --> 00:38:34,020
+I saw the engine.
+
+611
+00:38:34,021 --> 00:38:36,900
+what was catching fire than the ice At that stage,
+
+612
+00:38:36,901 --> 00:38:39,690
+I was about four thousand feet above the layer of clouds.
+
+613
+00:38:40,650 --> 00:38:41,850
+Upon seeing the fire,
+
+614
+00:38:41,851 --> 00:38:44,550
+I immediately dived into the clouds,
+
+615
+00:38:44,551 --> 00:38:48,630
+have changed course and turned left in order to get out of the line of fire.
+
+616
+00:38:48,631 --> 00:38:51,660
+so far nothing spake of him full in shape.
+
+617
+00:38:51,661 --> 00:38:53,430
+I wanted to jump up with a parachute.
+
+618
+00:38:54,660 --> 00:38:59,580
+Then I remembered that someone had once told me that if you are too frightened to jump off,
+
+619
+00:38:59,581 --> 00:39:01,620
+then push the joystick to the side,
+
+620
+00:39:01,621 --> 00:39:06,810
+and it will stand on it with your foot stage and push yourself up.
+
+621
+00:39:06,811 --> 00:39:08,190
+That's what I did establish the matter.
+
+622
+00:39:17,520 --> 00:39:19,350
+Towards the end of the war,
+
+623
+00:39:19,351 --> 00:39:23,310
+there simply were not enough trained pilots to fly the jet fighter.
+
+624
+00:39:23,311 --> 00:39:28,080
+Even if there had been the production of the Emmy to six to had ground to a halt,
+
+625
+00:39:28,081 --> 00:39:32,760
+they simply could not build enough jet fighters to stem the tide of the conquering allies.
+
+626
+00:39:39,360 --> 00:39:41,340
+Germany finally surrendered on May,
+
+627
+00:39:41,341 --> 00:39:43,620
+the seventh one thousand nine hundred and forty five.
+
+628
+00:39:43,621 --> 00:39:47,820
+as cities and factories were totally smashed so too,
+
+629
+00:39:47,821 --> 00:39:49,560
+with her jet aircraft industry.
+
+630
+00:39:52,140 --> 00:39:53,430
+In the following months,
+
+631
+00:39:53,431 --> 00:39:53,820
+Britain,
+
+632
+00:39:53,821 --> 00:40:01,260
+America and Russia squabbled over the carcasses of the wonder jets that were scattered throughout Germany and picking through the bones,
+
+633
+00:40:01,261 --> 00:40:04,140
+they began to build their own jet aircraft industries.
+
+634
+00:40:06,480 --> 00:40:09,330
+In an operation called operation Lusty.
+
+635
+00:40:09,331 --> 00:40:10,470
+Under the command of kernel,
+
+636
+00:40:10,471 --> 00:40:11,340
+Watson,
+
+637
+00:40:11,341 --> 00:40:14,340
+the Americans gathered all the German planes they could find.
+
+638
+00:40:16,140 --> 00:40:21,240
+They were flown to Cherbourg in France and then shipped to America for revaluation.
+
+639
+00:40:21,241 --> 00:40:33,450
+Watson's wizards were a group of American pilots tasked with capturing flying German aircraft to the French coast and bringing them back to the United States for testing and evaluation,
+
+640
+00:40:33,451 --> 00:40:37,140
+a commitment to getting this new technology back to the United States,
+
+641
+00:40:37,141 --> 00:40:39,990
+and they were actually racing against the British and the Soviets.
+
+642
+00:40:39,991 --> 00:40:45,060
+To do this would ensure that America would have an aeronautical superiority.
+
+643
+00:40:45,061 --> 00:40:47,520
+In the postwar period,
+
+644
+00:40:47,521 --> 00:40:55,020
+the Americans began an extensive testing program of the MIT to six tubes by analyzing the jet turbines and wind design.
+
+645
+00:40:55,021 --> 00:40:56,610
+At this German fighter,
+
+646
+00:40:56,611 --> 00:40:59,190
+they were able to produce their own design,
+
+647
+00:40:59,191 --> 00:41:00,750
+which was to become the fabulous.
+
+648
+00:41:00,751 --> 00:41:02,010
+At eighty six saver.
+
+649
+00:41:02,910 --> 00:41:07,980
+It's not until the German jet technology that's brought over through operation,
+
+650
+00:41:07,981 --> 00:41:10,980
+lusty and other programs that aircraft,
+
+651
+00:41:10,981 --> 00:41:21,210
+like North American and eighty six with its webbed Wayne especially reflect the German technology and the way to design a proper and efficient jet airplane.
+
+652
+00:41:23,940 --> 00:41:28,110
+The Russians also dealt into the Emmy to six to the secrets and,
+
+653
+00:41:28,111 --> 00:41:32,670
+with the help of British jet's technology would later build then make fifty.
+
+654
+00:41:34,020 --> 00:41:34,290
+Really,
+
+655
+00:41:34,291 --> 00:41:39,630
+the boost for the Russian engineer in history was what they captured from the Germans at the end of the Second World War.
+
+656
+00:41:39,631 --> 00:41:40,950
+The main thing,
+
+657
+00:41:40,951 --> 00:41:41,160
+though,
+
+658
+00:41:41,161 --> 00:41:42,360
+really for the Russian aircraft.
+
+659
+00:41:42,361 --> 00:41:52,200
+and she was when we get then our latest injured and that allowed to make fifteen to go from being an average aircraft with good design to a world beater.
+
+660
+00:41:53,430 --> 00:41:58,320
+Along with the enemy to six years moved to America when designer Hans von Hohenheim,
+
+661
+00:41:58,321 --> 00:42:02,400
+he was to become the chief scientist of error Propulsion for the United States' efforts.
+
+662
+00:42:03,420 --> 00:42:06,060
+Frank would eventually moved to America,
+
+663
+00:42:06,061 --> 00:42:10,200
+where he became a consultant on several aviation projects.
+
+664
+00:42:10,201 --> 00:42:11,280
+Vilhelm meshes meets.
+
+665
+00:42:11,281 --> 00:42:17,490
+The father of the Emmy to six two remained in Germany and helps in rebuilding their shattered aircraft industry.
+
+666
+00:42:19,470 --> 00:42:24,180
+Hundreds of allied aircraft were to fall victim to the Emmy to six too.
+
+667
+00:42:24,181 --> 00:42:26,190
+but at a terrible price,
+
+668
+00:42:26,191 --> 00:42:30,660
+hardly any of the four thousand eight hundred Emmy to six tubes that were built survived the war.
+
+669
+00:42:33,990 --> 00:42:38,460
+Yet many people still believe that if the Emmy to six to had entered service earlier,
+
+670
+00:42:38,461 --> 00:42:40,590
+it couldn't save Germany from defeat.
+
+671
+00:42:42,360 --> 00:42:49,470
+The future Buddha there has been a lot of speculation and perhaps if they could have introduced the whole program half a year earlier.
+
+672
+00:42:50,490 --> 00:42:51,960
+But if you are truthfully,
+
+673
+00:42:51,961 --> 00:42:58,410
+would it have decided to walk or tricks only the gods know reason isn't a good?
+
+674
+00:42:58,411 --> 00:43:01,890
+Germany had won the race to get a jet fighter into the air.
+
+675
+00:43:01,891 --> 00:43:04,080
+it outclassed all its rivals,
+
+676
+00:43:04,081 --> 00:43:06,690
+and in its short operational life of seven months,
+
+677
+00:43:06,691 --> 00:43:11,400
+the Emmy to six to had pushed forward the frontiers of air combat to new heights.
+
+678
+00:43:12,840 --> 00:43:17,520
+This was best at the time it was the best fighter plane in the world.
+
+679
+00:43:19,050 --> 00:43:20,370
+And as an aircraft.
+
+680
+00:43:22,020 --> 00:43:24,960
+It was an exceptional solution exceptional illusion.
+
+681
+00:43:26,910 --> 00:43:28,920
+We were surprised that the others could not do that,
+
+682
+00:43:28,921 --> 00:43:31,260
+and it's like the one that does the mmd chimerical.
+
+683
+00:43:33,150 --> 00:43:39,510
+The Emmy to six to was undoubtedly one of the most famous airplanes in the whole history of German aviation.
+
+684
+00:43:39,511 --> 00:43:40,350
+If not the world.
+
+685
+00:43:41,370 --> 00:43:45,090
+Born out of a need to be a fearsome destroyed from the day at first flew,
+
+686
+00:43:45,091 --> 00:43:50,520
+it spelled the end of propeller driven aircraft and heralded the dawning of the new jet.
+
