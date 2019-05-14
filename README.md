@@ -67,3 +67,7 @@ https://en.wikipedia.org/wiki/Bell_XP-52
 #### Adolf Galland
 
 https://en.wikipedia.org/wiki/Adolf_Galland
+
+#### MK 108 cannon(Me262主武器)
+
+https://en.wikipedia.org/wiki/MK_108_cannon
