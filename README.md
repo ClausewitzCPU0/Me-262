@@ -72,3 +72,15 @@ https://en.wikipedia.org/wiki/Adolf_Galland
 #### MK 108 cannon(Me262主武器)
 
 https://en.wikipedia.org/wiki/MK_108_cannon
+
+#### Operation Lusty (**LU**ftwaffe **S**ecret **T**echnolog**Y**)
+
+https://en.wikipedia.org/wiki/Operation_Lusty
+
+#### Line479 Watson's wizards? 未找到资料
+
+
+
+#### **North American F-86 Sabre**
+
+https://en.wikipedia.org/wiki/North_American_F-86_Sabre
