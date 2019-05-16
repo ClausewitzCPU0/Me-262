@@ -25,19 +25,19 @@ https://en.wikipedia.org/wiki/Messerschmitt_Me_262
 
 https://en.wikipedia.org/wiki/Ministry_of_Aviation_(Nazi_Germany)
 
-#### 汉斯·冯·奥海恩 Hans von Ohain
+#### Hans von Ohain 汉斯·冯·奥海恩 
 
 https://en.wikipedia.org/wiki/Hans_von_Ohain
 
-#### Frank Whittle
+#### Frank Whittle 弗兰克·惠特尔
 
 https://en.wikipedia.org/wiki/Frank_Whittle
 
-#### Willy Messerschmitt 
+#### Willy Messerschmitt 威利·梅塞施密特
 
 https://en.wikipedia.org/wiki/Willy_Messerschmitt
 
-#### Heinkel HeS 3引擎
+#### Heinkel HeS 3 引擎
 
 https://en.wikipedia.org/wiki/Heinkel_HeS_3
 
@@ -45,9 +45,9 @@ https://en.wikipedia.org/wiki/Heinkel_HeS_3
 
 https://en.wikipedia.org/wiki/Power_Jets_WU
 
-#### 梅塞施密特
+#### Messerschmitt AG 梅塞施密特股份公司
 
- https://en.wikipedia.org/wiki/Willy_Messerschmitt
+ https://en.wikipedia.org/wiki/Messerschmitt
 
 #### Gloster_E.28/39
 
@@ -65,7 +65,7 @@ https://en.wikipedia.org/wiki/Heinkel_He_280
 
 https://en.wikipedia.org/wiki/Bell_XP-52
 
-#### Adolf Galland
+#### Adolf Galland 阿道夫·加兰德
 
 https://en.wikipedia.org/wiki/Adolf_Galland
 
@@ -84,3 +84,16 @@ https://en.wikipedia.org/wiki/Operation_Lusty
 #### **North American F-86 Sabre**
 
 https://en.wikipedia.org/wiki/North_American_F-86_Sabre
+
+
+
+## 视频参考资料
+
+#### 梅塞施米特Me262的战斗及其地下工厂
+
+https://www.bilibili.com/video/av11344820
+
+#### 【NGC 中字】纳粹工程揭秘精选 (3) 战争机器
+
+https://www.bilibili.com/video/av20129659
+
