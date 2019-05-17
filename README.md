@@ -37,6 +37,18 @@ https://en.wikipedia.org/wiki/Frank_Whittle
 
 https://en.wikipedia.org/wiki/Willy_Messerschmitt
 
+#### Ernst Heinkel 厄斯特·亨克尔 
+
+https://en.wikipedia.org/wiki/Ernst_Heinkel
+
+#### Henry Harley Arnold  亨利·哈里·阿诺德
+
+[https://en.wikipedia.org/wiki/Henry_H._Arnold](https://en.wikipedia.org/wiki/Henry_H._Arnold)
+
+#### Luftwaffe
+
+https://en.wikipedia.org/wiki/Luftwaffe
+
 #### Heinkel HeS 3 引擎
 
 https://en.wikipedia.org/wiki/Heinkel_HeS_3
@@ -53,9 +65,9 @@ https://en.wikipedia.org/wiki/Power_Jets_WU
 
  https://en.wikipedia.org/wiki/Gloster_E.28/39
 
-#### Line165  ion/IA engine? 未找到资料
+#### General Electric I-A
 
-
+https://en.wikipedia.org/wiki/General_Electric_I-A
 
 #### Heinkel He 280 
 
@@ -84,6 +96,10 @@ https://en.wikipedia.org/wiki/Operation_Lusty
 #### **North American F-86 Sabre**
 
 https://en.wikipedia.org/wiki/North_American_F-86_Sabre
+
+#### Mikoyan-Gurevich MiG-15
+
+https://en.wikipedia.org/wiki/Mikoyan-Gurevich_MiG-15
 
 
 
